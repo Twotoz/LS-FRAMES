@@ -1,98 +1,27 @@
 <div align="center">
 
-<img src="LSFramesLogo.png" alt="LS-FRAMES logo" width="500">
-### Precision-cut frames. Built for the way you fly.
+<img src="LSFramesLogo.png" alt="LS-FRAMES logo" width="460">
 
-**Minimal geometry · Lightweight construction · Open designs**
-
-[Explore the collection](#the-collection) · [Download CAD](#design-files) · [Manufacturing notes](#manufacturing) · [Contribute](#contributing)
+**2" · 2.5" · 3" FPV freestyle frames | 1S–2S**
 
 </div>
 
----
+## About
 
-## The collection
+LS-FRAMES are designed for **freestyle**: relatively lightweight, but still strong.
 
-Three distinctive X-frame designs for **2-inch, 2.5-inch, and 3-inch FPV builds**. The entire LS series is designed for **1S–2S power systems**, with an open-center, four-arm layout and a clean, functional aesthetic.
+The arms are intentionally **thin** to keep as little material as possible directly beneath the propellers. Less obstruction in the propeller airflow is intended to improve **efficiency, flight time, and performance**, while keeping the frames tough enough for freestyle use.
 
-| LS92 | LS105 V2 | LS118 V2 |
+## Frames
+
+| LS92 V2 | LS105 V2 | LS118 V2 |
 |:---:|:---:|:---:|
-| **2-inch props** | **2.5-inch props** | **3-inch props** |
-| **1S–2S** | **1S–2S** | **1S–2S** |
-| **2.5 mm carbon** | **3 mm carbon** | **3 mm carbon** |
-| [View](frames/LS92/preview/LS92.png) | [View](frames/LS105/preview/LS105.png) | [View](frames/LS118/preview/LS118.png) |
+| <img src="frames/LS92/preview/LS92.png" alt="LS92 V2 frame" width="240"> | <img src="frames/LS105/preview/LS105.png" alt="LS105 V2 frame" width="240"> | <img src="frames/LS118/preview/LS118.png" alt="LS118 V2 frame" width="240"> |
+| **2"** | **2.5"** | **3"** |
+| 2.5 mm carbon | 3 mm carbon | 3 mm carbon |
+| 1S–2S | 1S–2S | 1S–2S |
+| [Download DXF](frames/LS92/LS92%20V2%20%282.5mm%29.dxf) | [Download DXF](frames/LS105/LS105%20V2%20%283mm%29.dxf) | [Download DXF](frames/LS118/cad/LS118%20V2%20%283mm%29.dxf) |
 
-> **Status:** LS105 V2 and LS118 V2 have supplied DXF manufacturing drawings. LS92 currently has a reference image only. Do not manufacture LS92 from its screenshot.
+**Note:** Check dimensions, mounting compatibility, and DXF scale before cutting.
 
-## Frame gallery
-
-### LS92
-![LS92 design](frames/LS92/preview/LS92.png)
-
-Compact **2-inch, 1S–2S** member of the LS family, designed for a **2.5 mm carbon-fiber plate**. This image is a design preview, **not a dimension-controlled cutting file**.
-
-### LS105 V2
-![LS105 V2 design](frames/LS105/preview/LS105.png)
-
-A **2.5-inch, 1S–2S** X-frame with an open, reinforced center.
-
-**Files:** [DXF · 3 mm](frames/LS105/cad/LS105%20V2%20%283mm%29.dxf) · [Preview](frames/LS105/preview/LS105.png)
-
-### LS118 V2
-![LS118 V2 design](frames/LS118/preview/LS118.png)
-
-A **3-inch, 1S–2S** X-frame variant with the same design language.
-
-**Files:** [DXF · 3 mm](frames/LS118/cad/LS118%20V2%20%283mm%29.dxf) · [Preview](frames/LS118/preview/LS118.png)
-
-## Design files
-
-```text
-LS-FRAMES/
-├── README.md
-├── LICENSE-NOTICE.md
-└── frames/
-    ├── LS92/
-    │   └── preview/LS92.png
-    ├── LS105/
-    │   ├── cad/LS105 V2 (3mm).dxf
-    │   └── preview/LS105.png
-    └── LS118/
-        ├── cad/LS118 V2 (3mm).dxf
-        └── preview/LS118.png
-```
-
-The original DXF files use millimeter-scale CAD geometry and contain lines, arcs and circles. Keep the DXF source as the manufacturing reference; PNG previews are illustrative only.
-
-## Manufacturing
-
-**Design specifications:** LS92: **2-inch, 1S–2S, 2.5 mm**; LS105 V2: **2.5-inch, 1S–2S, 3 mm**; LS118 V2: **3-inch, 1S–2S, 3 mm**. Carbon-fiber machining requires a suitable process, extraction and protective equipment. Before placing an order:
-
-1. Import the DXF into your CAD/CAM software and confirm **millimeter units and 1:1 scale**.
-2. Check the outer perimeter, every cutout, drill location, tool clearance and minimum web thickness.
-3. Verify actual hardware fit (motor mounting, stack, screws, propeller clearance and battery placement).
-4. Confirm material grade, laminate orientation, cutter compensation, edge finish and tolerances with your manufacturer.
-5. Prototype and flight-test before treating any design as production-ready.
-
-**Do not infer the frame's wheelbase, motor bolt pattern, dry weight, hardware compatibility or performance from the model names alone.** Those specifications should be measured and independently verified.
-
-## Project philosophy
-
-**Less excess. More purpose.** The LS series explores lightweight single-plate layouts, purposeful material distribution and clean symmetry. This repository is a living design archive: expect iterations and new variants as the project develops.
-
-## Contributing
-
-Issues and pull requests are welcome for verified dimensions, build photos, manufacturing feedback, frame improvements and tested hardware combinations. Include the exact frame/version, relevant measurements and supporting photographs or CAD files.
-
-## License & usage
-
-See [LICENSE-NOTICE.md](LICENSE-NOTICE.md). No license has yet been granted for the frame designs or drawings; public repository visibility does not itself authorize reproduction or commercial manufacture.
-
----
-
-<div align="center">
-
-**LS / FRAMES**  
-*Designed to fly. Refined to the essentials.*
-
-</div>
+[Design file usage](LICENSE-NOTICE.md)
