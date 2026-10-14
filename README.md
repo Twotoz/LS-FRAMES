@@ -12,6 +12,8 @@ LS-FRAMES are designed for **freestyle**: relatively lightweight, but still stro
 
 The arms are intentionally **thin** to keep as little material as possible directly beneath the propellers. Less obstruction in the propeller airflow is intended to improve **efficiency, flight time, and performance**, while keeping the frames tough enough for freestyle use.
 
+All three frames are designed to fit the **BETAFPV Matrix 1S 5IN1 II** flight controller, with space to use its **plug-in motor connectors** instead of soldering the motors directly to the board.
+
 ## Frames
 
 | LS92 V2 | LS105 V2 | LS118 V2 |
