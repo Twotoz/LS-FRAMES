@@ -1,6 +1,6 @@
 <div align="center">
 
-# LS / FRAMES
+<img src="LSFramesLogo.png" alt="LS-FRAMES logo" width="500">
 ### Precision-cut frames. Built for the way you fly.
 
 **Minimal geometry · Lightweight construction · Open designs**
