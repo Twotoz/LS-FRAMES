@@ -18,7 +18,7 @@ Three distinctive X-frame designs in the LS family, from the compact **LS92** to
 | LS92 | LS105 V2 | LS118 V2 |
 |:---:|:---:|:---:|
 | Compact | Balanced | Extended |
-| Preview available | 3 mm DXF + preview | 3 mm DXF + preview |
+| 2.5 mm · preview available | 3 mm DXF + preview | 3 mm DXF + preview |
 | [View](frames/LS92/preview/LS92.png) | [View](frames/LS105/preview/LS105.png) | [View](frames/LS118/preview/LS118.png) |
 
 > **Status:** LS105 V2 and LS118 V2 have supplied DXF manufacturing drawings. LS92 currently has a reference image only. Do not manufacture LS92 from its screenshot.
@@ -28,7 +28,7 @@ Three distinctive X-frame designs in the LS family, from the compact **LS92** to
 ### LS92
 ![LS92 design](frames/LS92/preview/LS92.png)
 
-Compact member of the LS family. This image is a design preview, **not a dimension-controlled cutting file**.
+Compact member of the LS family, designed for a **2.5 mm carbon-fiber plate**. This image is a design preview, **not a dimension-controlled cutting file**.
 
 ### LS105 V2
 ![LS105 V2 design](frames/LS105/preview/LS105.png)
@@ -65,7 +65,7 @@ The original DXF files use millimeter-scale CAD geometry and contain lines, arcs
 
 ## Manufacturing
 
-The supplied **V2 DXFs specify a 3 mm plate**. Carbon-fiber machining requires a suitable process, extraction and protective equipment. Before placing an order:
+**Plate thickness:** LS92: **2.5 mm** (preview only); LS105 V2: **3 mm**; LS118 V2: **3 mm**. Carbon-fiber machining requires a suitable process, extraction and protective equipment. Before placing an order:
 
 1. Import the DXF into your CAD/CAM software and confirm **millimeter units and 1:1 scale**.
 2. Check the outer perimeter, every cutout, drill location, tool clearance and minimum web thickness.
