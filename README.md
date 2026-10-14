@@ -13,12 +13,13 @@
 
 ## The collection
 
-Three distinctive X-frame designs in the LS family, from the compact **LS92** to the larger **LS118**. Each is designed around an open-center, four-arm layout and a clean, functional aesthetic.
+Three distinctive X-frame designs for **2-inch, 2.5-inch, and 3-inch FPV builds**. The entire LS series is designed for **1S–2S power systems**, with an open-center, four-arm layout and a clean, functional aesthetic.
 
 | LS92 | LS105 V2 | LS118 V2 |
 |:---:|:---:|:---:|
-| Compact | Balanced | Extended |
-| 2.5 mm · preview available | 3 mm DXF + preview | 3 mm DXF + preview |
+| **2-inch props** | **2.5-inch props** | **3-inch props** |
+| **1S–2S** | **1S–2S** | **1S–2S** |
+| **2.5 mm carbon** | **3 mm carbon** | **3 mm carbon** |
 | [View](frames/LS92/preview/LS92.png) | [View](frames/LS105/preview/LS105.png) | [View](frames/LS118/preview/LS118.png) |
 
 > **Status:** LS105 V2 and LS118 V2 have supplied DXF manufacturing drawings. LS92 currently has a reference image only. Do not manufacture LS92 from its screenshot.
@@ -28,19 +29,19 @@ Three distinctive X-frame designs in the LS family, from the compact **LS92** to
 ### LS92
 ![LS92 design](frames/LS92/preview/LS92.png)
 
-Compact member of the LS family, designed for a **2.5 mm carbon-fiber plate**. This image is a design preview, **not a dimension-controlled cutting file**.
+Compact **2-inch, 1S–2S** member of the LS family, designed for a **2.5 mm carbon-fiber plate**. This image is a design preview, **not a dimension-controlled cutting file**.
 
 ### LS105 V2
 ![LS105 V2 design](frames/LS105/preview/LS105.png)
 
-Clean X-frame with an open, reinforced center.
+A **2.5-inch, 1S–2S** X-frame with an open, reinforced center.
 
 **Files:** [DXF · 3 mm](frames/LS105/cad/LS105%20V2%20%283mm%29.dxf) · [Preview](frames/LS105/preview/LS105.png)
 
 ### LS118 V2
 ![LS118 V2 design](frames/LS118/preview/LS118.png)
 
-A larger X-frame variant with the same design language.
+A **3-inch, 1S–2S** X-frame variant with the same design language.
 
 **Files:** [DXF · 3 mm](frames/LS118/cad/LS118%20V2%20%283mm%29.dxf) · [Preview](frames/LS118/preview/LS118.png)
 
@@ -65,7 +66,7 @@ The original DXF files use millimeter-scale CAD geometry and contain lines, arcs
 
 ## Manufacturing
 
-**Plate thickness:** LS92: **2.5 mm** (preview only); LS105 V2: **3 mm**; LS118 V2: **3 mm**. Carbon-fiber machining requires a suitable process, extraction and protective equipment. Before placing an order:
+**Design specifications:** LS92: **2-inch, 1S–2S, 2.5 mm**; LS105 V2: **2.5-inch, 1S–2S, 3 mm**; LS118 V2: **3-inch, 1S–2S, 3 mm**. Carbon-fiber machining requires a suitable process, extraction and protective equipment. Before placing an order:
 
 1. Import the DXF into your CAD/CAM software and confirm **millimeter units and 1:1 scale**.
 2. Check the outer perimeter, every cutout, drill location, tool clearance and minimum web thickness.
