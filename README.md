@@ -1,42 +1,50 @@
 <div align="center">
 
-<img src="assets/LSFramesLogo.png" alt="LS-FRAMES logo" width="460">
+<img src="assets/LSFramesLogo.png" alt="LS-FRAMES" width="460">
 
-**2" · 2.5" · 3" FPV freestyle frames | 1S–2S**
+**Lightweight freestyle frames for 1S–2S FPV builds.**
+
+[![Hardware License](https://img.shields.io/badge/License-CERN--OHL--S--2.0-2563eb?style=for-the-badge)](LICENSE)
+![Frame Sizes](https://img.shields.io/badge/Props-2%22%20%7C%202.5%22%20%7C%203%22-374151?style=for-the-badge)
+![Power](https://img.shields.io/badge/Power-1S%E2%80%932S-16a34a?style=for-the-badge)
+![Freestyle](https://img.shields.io/badge/Designed%20for-Freestyle-e58a2b?style=for-the-badge)
+
+[**Frames**](#frames) · [**Battery holder**](#1s-battery-holder) · [**License**](#license)
 
 </div>
 
+---
+
 ## About
 
-LS-FRAMES are designed for **freestyle**: relatively lightweight, but still strong.
+**Lightweight, strong and made for freestyle.** LS-FRAMES use intentionally thin arms to put less material directly beneath the propellers. This reduces obstruction of the propeller airflow, with the aim of improving efficiency, flight time and performance.
 
-The arms are intentionally **thin** to keep as little material as possible directly beneath the propellers. Less obstruction in the propeller airflow is intended to improve **efficiency, flight time, and performance**, while keeping the frames tough enough for freestyle use.
-
-All three frames are designed to fit the **BETAFPV Matrix 1S 5IN1 II** flight controller, with space to use its **plug-in motor connectors** instead of soldering the motors directly to the board.
+All three designs accommodate the **BETAFPV Matrix 1S 5IN1 II**, including clearance for its **plug-in motor connectors**.
 
 ## Frames
 
-| LS92 V2 | LS105 V2 | LS118 V2 |
+| **LS92 V2** | **LS105 V2** | **LS118 V2** |
 |:---:|:---:|:---:|
-| <img src="frames/LS92/preview/LS92.png" alt="LS92 V2 frame" width="240"> | <img src="frames/LS105/preview/LS105.png" alt="LS105 V2 frame" width="240"> | <img src="frames/LS118/preview/LS118.png" alt="LS118 V2 frame" width="240"> |
+| <img src="frames/LS92/preview/LS92.png" alt="LS92 V2" width="240"> | <img src="frames/LS105/preview/LS105.png" alt="LS105 V2" width="240"> | <img src="frames/LS118/preview/LS118.png" alt="LS118 V2" width="240"> |
 | **2"** | **2.5"** | **3"** |
-| 2.5 mm carbon | 2.5 or 3 mm carbon | 2.5 or 3 mm carbon |
+| 2.5 mm carbon | 2.5 / 3 mm carbon | 2.5 / 3 mm carbon |
 | 1S–2S | 1S–2S | 1S–2S |
-| [Download DXF](frames/LS92/cad/LS92%20V2%20%282.5mm%29.dxf) | [Download DXF](frames/LS105/cad/LS105%20V2%20%283mm%29.dxf) | [Download DXF](frames/LS118/cad/LS118%20V2%20%283mm%29.dxf) |
+| **[Download DXF](frames/LS92/cad/LS92%20V2%20%282.5mm%29.dxf)** | **[Download DXF](frames/LS105/cad/LS105%20V2%20%283mm%29.dxf)** | **[Download DXF](frames/LS118/cad/LS118%20V2%20%283mm%29.dxf)** |
 
-**Note:** The LS105 and LS118 DXF filenames say “3mm”, but either frame can be cut from **2.5 mm or 3 mm carbon**. Check dimensions, mounting compatibility, and DXF scale before cutting.
+> **Cutting note:** LS105 and LS118 DXF names specify 3 mm, but either can also be cut from 2.5 mm carbon. Check scale and hardware fit before manufacturing.
 
 ## 1S Battery Holder
 
-3D-printable 1S battery holder for **BETAFPV LAVA 480, 580 and 680 mAh batteries**, specifically designed for the **LS92 V2, LS105 V2 and LS118 V2** frames.
+3D-printable battery holder for **BETAFPV LAVA 480, 580 and 680 mAh 1S batteries**, designed for the **LS92 V2, LS105 V2 and LS118 V2** frames.
 
-<img src="accessories/1S-LAVA-battery-holder/preview.png" alt="1S LAVA 480, 580 and 680 mAh battery holder" width="360">
+<img src="accessories/1S-LAVA-battery-holder/preview.png" alt="LAVA 1S battery holder" width="370">
 
-[Download STL](accessories/1S-LAVA-battery-holder/LAVA-1S-480-580-680-battery-holder.stl)
+**[Download STL](accessories/1S-LAVA-battery-holder/LAVA-1S-480-580-680-battery-holder.stl)**
 
 ## License
 
-Frame **DXF** and battery-holder **STL** files are open hardware under [CERN-OHL-S-2.0](LICENSE). You may use, modify, manufacture and sell them under the licence terms, including the source-sharing requirements.
+[![CERN-OHL-S-2.0](https://img.shields.io/badge/Hardware-CERN--OHL--S--2.0-2563eb?style=flat-square)](LICENSE)
 
-The **LS-FRAMES name and logo** are **not** licensed for reuse as branding. See [NOTICE.md](NOTICE.md) for copyright, licence scope and source location.
+Frame **DXF** and battery-holder **STL** files are available under the **[CERN-OHL-S-2.0](LICENSE)** open-hardware license, including its conditions for sharing modified designs.
 
+The **LS-FRAMES name and logo are reserved** and are not covered by that license. See [NOTICE.md](NOTICE.md) for details.
