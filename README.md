@@ -28,9 +28,9 @@ All three frames are designed to fit the **BETAFPV Matrix 1S 5IN1 II** flight co
 
 ## 1S Battery Holder
 
-3D-printable toothpick-style battery holder for **LAVA 480/580 1S batteries**.
+3D-printable 1S battery holder for **BETAFPV LAVA 480, 580 and 680 mAh batteries**, specifically designed for the **LS92 V2, LS105 V2 and LS118 V2** frames.
 
-<img src="Battery-Holder-1S-Lava-480-580.png" alt="1S LAVA 480/580 battery holder" width="360">
+<img src="Battery-Holder-1S-Lava-480-580.png" alt="1S LAVA 480, 580 and 680 mAh battery holder" width="360">
 
 [Download STL](Lava580-480%201S%20Battery%20Holder%20Toothpick.stl)
 
