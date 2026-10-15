@@ -35,11 +35,11 @@ All three designs accommodate the **BETAFPV Matrix 1S 5IN1 II**, including clear
 
 ## 1S Battery Holder
 
-3D-printable battery holder for **BETAFPV LAVA 480, 580 and 680 mAh 1S batteries**, designed for the **LS92 V2, LS105 V2 and LS118 V2** frames.
+A 3D-printable battery holder made specifically for the LS-FRAMES lineup.
 
-<img src="accessories/1S-LAVA-battery-holder/preview.png" alt="LAVA 1S battery holder" width="370">
-
-**[Download STL](accessories/1S-LAVA-battery-holder/LAVA-1S-480-580-680-battery-holder.stl)**
+| **Preview** | **Compatibility & Download** |
+|:---:|:---|
+| <img src="accessories/1S-LAVA-battery-holder/preview.png" alt="LAVA 1S battery holder" width="320"> | **Batteries:** BETAFPV LAVA 480 / 580 / 680 mAh (1S)<br><br>**Frames:** LS92 V2 · LS105 V2 · LS118 V2<br><br>**File:** STL (3D printable)<br><br>**[⬇ Download STL](accessories/1S-LAVA-battery-holder/LAVA-1S-480-580-680-battery-holder.stl)** |
 
 ## License
 
