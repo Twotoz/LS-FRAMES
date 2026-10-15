@@ -26,4 +26,12 @@ All three frames are designed to fit the **BETAFPV Matrix 1S 5IN1 II** flight co
 
 **Note:** The LS105 and LS118 DXF filenames say “3mm”, but either frame can be cut from **2.5 mm or 3 mm carbon**. Check dimensions, mounting compatibility, and DXF scale before cutting.
 
+## 1S Battery Holder
+
+3D-printable toothpick-style battery holder for **LAVA 480/580 1S batteries**.
+
+<img src="Battery-Holder-1S-Lava-480-580.png" alt="1S LAVA 480/580 battery holder" width="360">
+
+[Download STL](Lava580-480%201S%20Battery%20Holder%20Toothpick.stl)
+
 [Design file usage](LICENSE-NOTICE.md)
