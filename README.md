@@ -34,4 +34,9 @@ All three frames are designed to fit the **BETAFPV Matrix 1S 5IN1 II** flight co
 
 [Download STL](accessories/1S-LAVA-battery-holder/LAVA-1S-480-580-680-battery-holder.stl)
 
-[Design file usage](LICENSE-NOTICE.md)
+## License
+
+Frame **DXF** and battery-holder **STL** files are open hardware under [CERN-OHL-S-2.0](LICENSE). You may use, modify, manufacture and sell them under the licence terms, including the source-sharing requirements.
+
+The **LS-FRAMES name and logo** are **not** licensed for reuse as branding. See [NOTICE.md](NOTICE.md) for copyright, licence scope and source location.
+
